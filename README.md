@@ -50,8 +50,8 @@ Here are some ideas to get you started:
 
 ### 📫 How to reach me :
 
-* :email: Email: sharonostro96@gmail.com 
-* <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="15" height="15"/>   Linkedin: https://www.linkedin.com/in/sharon-ostrovsky
+* :email: Email: **sharonostro96@gmail.com** 
+* <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="15" height="15"/>   **Linkedin: https://www.linkedin.com/in/sharon-ostrovsky**
   
 
 ### 📊 My Stats :
