@@ -15,9 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there 👋 I´m Sharon
 
-## 🔭 I’m currently working with
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&height=45&lines=Sharon+Ostrovsky;Full+Stack+Developer" alt="Typing SVG" /></a>
+</p>
+
+
+## Hi there 👋 I´m Sharon
+
+### 🔭 I’m currently working with
 
 <p align="left"> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
@@ -41,7 +48,7 @@ Here are some ideas to get you started:
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
 
-## 📫 How to reach me
+### 📫 How to reach me
 
 * :email: Email: sharonostro96@gmail.com 
 * <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="15" height="15"/>   Linkedin: https://www.linkedin.com/in/sharon-ostrovsky
