@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi there 👋 I´m Sharon
 
-## 🔭 I’m currently working with...
+## 🔭 I’m currently working with
 
 <p align="left"> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
 
-## 📫 How to reach me...
+## 📫 How to reach me
 
 * Email: sharonostro96@gmail.com 
 * Linkedin: www.linkedin.com/in/sharon-ostrovsky
