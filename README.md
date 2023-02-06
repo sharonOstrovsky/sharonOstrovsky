@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </p>
 
 
-## Hi there 👋 I´m Sharon
+## Hey 👋 I´m Sharon
 
 ### 🔭 I’m currently working with :
 
