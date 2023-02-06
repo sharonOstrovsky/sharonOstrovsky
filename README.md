@@ -1,5 +1,6 @@
 
 
+
 <!--
 **sharonOstrovsky/sharonOstrovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 
 <p align="center">
@@ -50,9 +52,10 @@ Here are some ideas to get you started:
 
 ### 📫 How to reach me :
 
-* :email: Email: **sharonostro96@gmail.com** 
+* <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mail" width="15" height="15"/>   Email: **sharonostro96@gmail.com** 
 * <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="15" height="15"/>   **Linkedin: https://www.linkedin.com/in/sharon-ostrovsky**
 * <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="discord" width="15" height="15"/>  **sharon ostrovsky#9511**
+  
   
 
 ### 📊 My Stats :
