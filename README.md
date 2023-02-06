@@ -60,10 +60,16 @@ Here are some ideas to get you started:
 
 ### 📊 My Stats :
   
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharonOstrovsky&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
-  <!-- otra forma:
-* <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="15" height="15"/>   [Linkedin](https://www.linkedin.com/in/sharon-ostrovsky)
+  [![Sharon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharonOstrovsky&show_icons=true&theme=synthwave)](https://github.com/sharonOstrovsky)
+  
+  <!-- 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/naveenverma1/count.svg" />
+</p>
 
 -->
   
