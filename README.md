@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## Hi there 👋 I´m Sharon
 
-### 🔭 I’m currently working with
+### 🔭 I’m currently working with :
 
 <p align="left"> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
@@ -48,10 +48,15 @@ Here are some ideas to get you started:
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
 
-### 📫 How to reach me
+### 📫 How to reach me :
 
 * :email: Email: sharonostro96@gmail.com 
 * <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="15" height="15"/>   Linkedin: https://www.linkedin.com/in/sharon-ostrovsky
+  
+
+### 📊 My Stats :
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharonOstrovsky&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
   <!-- otra forma:
 * <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="15" height="15"/>   [Linkedin](https://www.linkedin.com/in/sharon-ostrovsky)
