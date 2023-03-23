@@ -46,7 +46,16 @@ Here are some ideas to get you started:
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
+   
+  <a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a> 
+
+   
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+   
+ </p>
 
 
 ### 📫 How to reach me :
@@ -74,6 +83,14 @@ Here are some ideas to get you started:
   
   
   <!--
+
+https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg
+
+https://es.reactjs.org/
+
+<a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="git" width="40" height="40"/> </a> 
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
