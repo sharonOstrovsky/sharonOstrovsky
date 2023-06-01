@@ -33,10 +33,10 @@ Here are some ideas to get you started:
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">    
    
    <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg" alt="Kotlin" width="40" height="40"/> </a>
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg" alt="Kotlin" width="60" height="60"/> </a>
    
    <a href="https://sqlite.org/index.html" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="SQLite" width="40" height="40"/> </a>
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="SQLite" width="60" height="60"/> </a>
    
  
    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
