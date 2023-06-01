@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ### 🔭 I’m currently working with :
 
-#### Mobile: 
+##### Mobile: 
 <p align="left"> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">    
    
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
  </p>
  
- #### Web:
+ ##### Web:
 
 <p align="left"> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
    
  </p>
  
- #### Others:
+ ##### Others:
 
 <p align="left"> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
