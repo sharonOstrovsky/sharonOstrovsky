@@ -134,11 +134,12 @@ Here are some ideas to get you started:
 
 ### 📊 My Stats :
   
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharonOstrovsky&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  
-  [![Sharon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharonOstrovsky&show_icons=true&theme=synthwave)](https://github.com/sharonOstrovsky)
-  
+ <p align="center">
+<a href="https://github.com/ArisGuimera">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sharonOstrovsky&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sharonOstrovsky&layout=compact&langs_count=8&theme=synthwave"/>
+</a>
+</p>
   <!-- 
 <p align="center"> 
   Visitor count<br>
