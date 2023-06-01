@@ -19,16 +19,82 @@ Here are some ideas to get you started:
 
 
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=440&height=100&lines=Sharon+Ostrovsky;Full+Stack+Developer" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=435&height=150&lines=Sharon+Ostrovsky;Java+Full+Stack+Web+Developer;and;Android+Developer" alt="Typing SVG" /></a>
 </p>
 
 
 ## Hey 👋 I´m Sharon
 
+
+### 🔭 I’m currently working with :
+
+#### Mobile: 
+<p align="left"> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">    
+   
+   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg" alt="Kotlin" width="40" height="40"/> </a>
+   
+   <a href="https://sqlite.org/index.html" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="SQLite" width="40" height="40"/> </a>
+   
+ 
+   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="Java" width="40" height="40"/> </a>
+
+ </p>
+ 
+ #### Web:
+
+<p align="left"> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+   
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" align="center" margin-left="10px"/></a>
+  
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a> 
+  
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
+   
+  <a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a> 
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+   
+ </p>
+ 
+ #### Others:
+
+<p align="left"> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+   
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+ 
+ </p>
+ 
+<!--
 ### 🔭 I’m currently working with :
 
 <p align="left"> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+   
+   
+   
+   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg" alt="Kotlin" width="40" height="40"/> </a>
+   
+   <a href="https://sqlite.org/index.html" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="SQLite" width="40" height="40"/> </a>
   
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -56,7 +122,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
    
  </p>
-
+-->
 
 ### 📫 How to reach me :
 
