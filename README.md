@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=435&height=150&lines=Sharon+Ostrovsky;Java+Full+Stack+Web+Developer;and;Android+Developer" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&color=F75C7E&center=true&vCenter=true&multiline=true&width=435&height=150&lines=Sharon+Ostrovsky;Java+Full+Stack+Web+Developer;and;Android+Developer" alt="Typing SVG" /></a>
 </p>
 
 
