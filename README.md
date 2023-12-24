@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&color=F75C7E&center=true&vCenter=true&multiline=true&width=435&height=150&lines=Sharon+Ostrovsky;Java+Full+Stack+Web+Developer;and;Android+Developer" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&color=F75C7E&center=true&vCenter=true&multiline=true&width=435&height=150&lines=Sharon+Ostrovsky;Software+Developer;and;Android+Developer" alt="Typing SVG" /></a>
 </p>
 
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ##### Mobile: 
 <p align="left"> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">    
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">   
    
    <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg" alt="Kotlin" width="60" height="60"/> </a>
@@ -38,7 +38,6 @@ Here are some ideas to get you started:
    <a href="https://sqlite.org/index.html" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="SQLite" width="60" height="60"/> </a>
    
- 
    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="Java" width="40" height="40"/> </a>
 
@@ -48,6 +47,9 @@ Here are some ideas to get you started:
 
 <p align="left"> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+
+  <a href="https://go.dev/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="Golang" width="60" height="60"/> </a>
    
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
@@ -60,13 +62,16 @@ Here are some ideas to get you started:
   
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-   
+<!--   
+
   <a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a> 
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-   
+  
+  -->
+  
  </p>
  
  ##### Others:
